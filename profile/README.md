@@ -26,13 +26,15 @@ If you're interested in using or contributing to mindpaper, here's how you can g
 4. Explore the source code, familiarize yourself with the project structure, and start contributing!
 5. If you encounter any issues or have questions, feel free to open an issue or join our community discussion forum.
 
+## TODO
+
+- [ ] Dockerize application
+- [ ] Tauri client
+
 ## Stay Connected
 
 Stay connected with us to receive updates, news, and announcements about mindpaper:
 
-- Follow us on [Twitter](https://twitter.com/mindpaper)
-- Join our [community discussion forum](https://forum.mindpaper.org)
-- Subscribe to our [newsletter](https://mindpaper.org/newsletter)
 - Watch our GitHub repository for new releases and updates
 
 ## License
